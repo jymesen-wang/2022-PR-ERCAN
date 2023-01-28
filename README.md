@@ -8,5 +8,4 @@ https://www.sciencedirect.com/science/article/pii/S0031320321006932
 The code explanation: 
 The main function of the code: ERCAN_norm00k.m
 
-
-
+If you have any questions, please connect zhenyu.ma@mail.nwpu.edu.cn
